@@ -1,6 +1,7 @@
 print('=-='*16)
 print('{:^16}'.format('Exemplos de Tuplas - Variáveis Compostas'))
 print('=-='*16,'\n')
+# TUPLAS SÃO IMUTÁVEIS >>> Não pode fazer mudanças 
 
  # TUPLAS COM PARÊNTESES ():
 lanche = ('Hamburguer','Suco', 'Pizza','Pudim')
