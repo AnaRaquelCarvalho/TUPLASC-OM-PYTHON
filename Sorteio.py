@@ -11,3 +11,6 @@ print('Os valores sorteados foram: ',end= ' ')
 for num in numeros:
     print(f'{num}', end= ' ')
 print('\n','-'*46)
+print('{:^46}'.format(f'O MAIOR VALOR foi: {max(numeros)}'))
+print('{:^46}'.format(f'O MENOR VALOR foi: {min(numeros)}'))
+print('-'*46)
